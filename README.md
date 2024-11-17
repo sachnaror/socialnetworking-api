@@ -5,7 +5,7 @@
 
 * Download this repo or run: 
 ```bash
-    $ git clone https://github.com/sachnaror/socialnetworking-api
+    $ git clone https://github.com/sachnaror/socialnetworking-api.git
 ```
 
 #### In the root directory:
