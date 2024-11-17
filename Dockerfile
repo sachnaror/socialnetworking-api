@@ -8,7 +8,7 @@ RUN mkdir $APP_HOME
 RUN mkdir $APP_HOME/staticfiles
 
 LABEL maintainer='schnaror@gmail.com'
-LABEL description="Development image for Socialnetworking API V1 Project"
+LABEL description="Development image for Socialnetworking API Project"
 
 ENV PYTHONDONTWRITEBYTECODE 1
 
